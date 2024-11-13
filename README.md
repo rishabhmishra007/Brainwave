@@ -4,6 +4,8 @@
 
 **Brainwave** is a modern UI/UX website clone inspired by Awwwards, showcasing responsive design and interactive user experiences. This project demonstrates the use of **React** and **Vite** for building high-performance web applications. Brainwave is a popular website that was once listed on Awwwards and has also been recreated by JSM. My recreation includes tweaks to the UI and a major update featuring smooth scrolling using **Lenis**, a modern tool for smooth scrolling in React.js. Additionally, I have learned to create highly reusable components, which I implemented throughout the project.
 
+Live Link : https://brainwave-rishabh.vercel.app/
+
 ## Features
 
 - **Responsive Design**: Adapts seamlessly across various devices, ensuring a consistent user experience on desktops, tablets, and mobile devices.
